@@ -4,8 +4,6 @@ networkx
 math
 powerlaw
 scipy
-scipy
-networkx
 cpnet
 community
 cartopy
