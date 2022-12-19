@@ -1,0 +1,11 @@
+pandas
+numpy
+networkx
+math
+powerlaw
+scipy
+scipy
+networkx
+cpnet
+community
+cartopy
